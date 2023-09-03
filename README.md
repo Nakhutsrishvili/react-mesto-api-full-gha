@@ -9,7 +9,7 @@
 
 ## Ссылки на проект
 
-IP 158.160.72.158
+IP 51.250.69.166
 
 Frontend https://mesto.nodari.nomoredomainsicu.ru
 
